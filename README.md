@@ -1,8 +1,9 @@
-# pildora-crud-express-example
+# pildora-express-typescript-doing-crud
 
-Hola, mi nombre es Jesus Fajardo y aqui deesta toda la informacion referente a mi pildora de "CRUD con Express y TypeScript".
+Hola, mi nombre es Jesus Fajardo y aqui esta toda la informacion referente a mi pildora de "CRUD con Express y TypeScript".
 
 Repositorio en Github: https://github.com/JFCTito/pildora-express-typescript-doing-crud
+(las instrucciones estan en un archivo "instructions.js")
 
 Presentacion en canva: https://www.canva.com/design/DAFkgY2Q3jA/iVl798jPEAYMeUCPjchxMw/view?utm_content=DAFkgY2Q3jA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
